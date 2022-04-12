@@ -110,11 +110,3 @@ while True:
     if get_winner(game) == 'Y':
         print('Player Y won')
         break
-
-
-# move = get_move
-# if game.valid_move(move):
-# continue
-# else :
-# print('Greska')
-# move = get_move (...)
